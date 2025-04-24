@@ -1,5 +1,7 @@
 # VeggieVision_Detection_Code
+
 **Author: Samuel Lin**
+
 *Note: view the original repository and commit history [here](https://github.com/smlin2000/VeggieVision_Detection_Code)*
 
 https://github.com/user-attachments/assets/7fdc40d7-3341-46c6-8d8a-6a5b74b37168
